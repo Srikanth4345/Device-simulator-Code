@@ -1,0 +1,25 @@
+C:\Users\Backend\source\repos\IoTClassLibrary\bin\Debug\net8.0\IoTClassLibrary.deps.json
+C:\Users\Backend\source\repos\IoTClassLibrary\bin\Debug\net8.0\IoTClassLibrary.dll
+C:\Users\Backend\source\repos\IoTClassLibrary\bin\Debug\net8.0\IoTClassLibrary.pdb
+C:\Users\Backend\source\repos\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Backend\source\repos\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Backend\source\repos\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Backend\source\repos\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.AssemblyInfo.cs
+C:\Users\Backend\source\repos\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Backend\source\repos\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.dll
+C:\Users\Backend\source\repos\IoTClassLibrary\obj\Debug\net8.0\refint\IoTClassLibrary.dll
+C:\Users\Backend\source\repos\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.pdb
+C:\Users\Backend\source\repos\IoTClassLibrary\obj\Debug\net8.0\ref\IoTClassLibrary.dll
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\bin\Debug\net8.0\IoTClassLibrary.deps.json
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\bin\Debug\net8.0\IoTClassLibrary.dll
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\bin\Debug\net8.0\IoTClassLibrary.pdb
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.csproj.AssemblyReference.cache
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.AssemblyInfoInputs.cache
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.AssemblyInfo.cs
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.sourcelink.json
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.dll
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\obj\Debug\net8.0\refint\IoTClassLibrary.dll
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\obj\Debug\net8.0\IoTClassLibrary.pdb
+C:\Users\hemanth\IOTProject\Device-simulator-Code\Device simulator code\IoTClassLibrary\obj\Debug\net8.0\ref\IoTClassLibrary.dll
